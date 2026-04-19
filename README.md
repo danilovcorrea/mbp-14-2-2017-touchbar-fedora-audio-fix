@@ -2,8 +2,15 @@
 
 This repository serves as a technical record and guide for enabling internal audio on MacBook Pro 14,2 (2017 Touch Bar) models using the Cirrus Logic CS8409 chip on Fedora 43.
 
-## Credits & Context
-Properly initializing the CS8409 on Apple hardware requires specific verb sequences and DKMS management.
+## Credits & References
+
+This fix is a compilation of community efforts. Special thanks to the original developers:
+
+    Primary Driver Source: davidjo/snd_hda_macbookpro
+
+    Cirrus Codec Support: egorenar/snd-hda-codec-cs8409
+
+    Original Guide: Ranquetat's Medium Post - Baseline for DKMS installation.
 
 ---
 
