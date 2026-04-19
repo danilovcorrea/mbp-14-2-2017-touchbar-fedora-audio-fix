@@ -10,7 +10,7 @@ This fix is a compilation of community efforts. Special thanks to the original d
 
     Cirrus Codec Support: egorenar/snd-hda-codec-cs8409
 
-    Original Guide: Ranquetat's Medium Post - Baseline for DKMS installation.
+    Original Guide: [Ranquetat's Medium Post - Baseline for DKMS installation.](https://medium.com/@ranquetat/how-to-install-kernel-6-17-and-fix-sound-on-macs-cirrus-cs8409-running-linux-8641c1cf4d98)
 
 ---
 
