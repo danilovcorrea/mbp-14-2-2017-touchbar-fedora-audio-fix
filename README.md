@@ -6,11 +6,11 @@ This repository serves as a technical record and guide for enabling internal aud
 
 This fix is a compilation of community efforts. Special thanks to the original developers:
 
-# Primary Driver Source: [davidjo/snd_hda_macbookpro](https://github.com/davidjo/snd_hda_macbookpro)
+* Primary Driver Source: [davidjo/snd_hda_macbookpro](https://github.com/davidjo/snd_hda_macbookpro)
 
-# Cirrus Codec Support: [egorenar/snd-hda-codec-cs8409](https://github.com/egorenar/snd-hda-codec-cs8409)
+* Cirrus Codec Support: [egorenar/snd-hda-codec-cs8409](https://github.com/egorenar/snd-hda-codec-cs8409)
 
-# Original Guide: [Ranquetat's Medium Post - Baseline for DKMS installation.](https://medium.com/@ranquetat/how-to-install-kernel-6-17-and-fix-sound-on-macs-cirrus-cs8409-running-linux-8641c1cf4d98)
+* Original Guide: [Ranquetat's Medium Post - Baseline for DKMS installation.](https://medium.com/@ranquetat/how-to-install-kernel-6-17-and-fix-sound-on-macs-cirrus-cs8409-running-linux-8641c1cf4d98)
 
 ---
 
